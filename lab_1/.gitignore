@@ -1,2 +1,5 @@
 build
 *.txt
+
+# Compiled app
+caesar*
